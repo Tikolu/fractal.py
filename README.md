@@ -5,12 +5,16 @@ A very simple Mandelbrot fractal generator made in python
 ![Negative Fractal](https://raw.githubusercontent.com/Tikolu/Fractal/master/screenshots/negative_fractal.png)
 ![Square Fractal](https://raw.githubusercontent.com/Tikolu/Fractal/master/screenshots/square_fractal.png)
 
-* `screensaver.py` is a demo project which is not required to use `fractal.py`  
+`screensaver.py` is a demo project which is not required to use `fractal.py`  
+
+---
 
 To import `fractal.py`:
 ```python
 import fractal
 ```  
+
+---
 
 To initialize a Pygame screen for generating fractals:
 ```python
@@ -21,6 +25,8 @@ d = fractal.display(width, height, fullscreen, colour)
 `fullscreen` - Whether or not the screen should be initialized in fullscreen mode. Default is `False`.  
 `colour` - An RGB value for the background colour of the screen. Default is `(0,0,0)` black.  
 The function returns the screen which then needs to be passed on to the `fractal.generate` function. It is best to store it in a variable.  
+
+---
 
 To generate a fractal on the Screen
 ```python
