@@ -1,4 +1,4 @@
-# Tikolu Fractal
+# fractal.py
 A very simple Mandelbrot fractal generator made in python
 
 ![Positive Fractal](https://raw.githubusercontent.com/Tikolu/Fractal/master/screenshots/positive_fractal.png)
