@@ -1,5 +1,5 @@
 # fractal.py
-A very simple Mandelbrot fractal generator made in Python.
+A very simple Mandelbrot fractal generator made in Python and Pygame.
 
 ![Positive Fractal](https://raw.githubusercontent.com/Tikolu/Fractal/master/screenshots/positive_fractal.png)
 ![Negative Fractal](https://raw.githubusercontent.com/Tikolu/Fractal/master/screenshots/negative_fractal.png)
