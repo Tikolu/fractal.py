@@ -1,6 +1,6 @@
 # Tikolu Fractal Generator
 #
-# tikolu.net16.net
+# tikolu.net
 #
 
 
